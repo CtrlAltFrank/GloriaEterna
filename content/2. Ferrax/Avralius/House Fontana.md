@@ -1,6 +1,7 @@
 ---
 aliases:
   - Fontana
+  - Fontain
 ---
 
 
@@ -76,7 +77,7 @@ In a brazen mid-day assault, a small party of mercenaries set off several large 
 
 This assault signaled the beginning of a two pronged attack; as [[House Kobielli|Kobielli]] Griffin Knights landed at near the cities main Forum, and the remaining Bridge; while a joint Fontana-Montagni northern assault quickly overwhelmed the confused city garrison.
 
-Despite their initial success, The Battle of Pontium devolved into a stalemate; with the northern half of the city firmly in Avralius control, and the other firmly held by the Delroth. For the remainder of the Civil War, open warfare in Pontium devolved into bitter river crossings, and small bands committing acts of assassination sabotage. 
+Despite their initial success, The Battle of Pontium devolved into a stalemate; with the northern half of the city firmly in Avralius control, and the other firmly held by the [[Delrath]]th. For the remainder of the Civil War, open warfare in Pontium devolved into bitter river crossings, and small bands committing acts of assassination sabotage. 
 
 ---
 
@@ -86,9 +87,9 @@ To the North-West, [[Cecco de la Wald]] saw little use in fighting a Civil War; 
 
 It was near Olus Erba and Talium that a small group of mercenaries ambushed a Fontana trade caravan; slaughtering the caravan master and his guard, and freeing the cargo, before burning the wagons. 
 
-When confronted by their employer near Krisa, these mercenaries convinced the local garrison that the woodsmen of House Talio ambushed the caravan; and later with some deception and forged dispatches, persuaded several Fontana nobles that Talio had entered an alliance with the Delroth.
+When confronted by their employer near Krisa, these mercenaries convinced the local garrison that the woodsmen of House Talio ambushed the caravan; and later with some deception and forged dispatches, persuaded several Fontana nobles that Talio had entered an alliance with the [[Delrath]]h.
 
-In the second year of the [[Ferraxian]] Civil War, Avralius pushed northward towards Talium, seeking to prevent a pincer attack by a join Talsberg-Delroth alliance.
+In the second year of the [[Ferraxian]] Civil War, Avralius pushed northward towards Talium, seeking to prevent a pincer attack by a join Talsberg-Delrath alliance.
 
 The fighting was fierce, but brief; with both sides bleeding heavily for little to no gain; and by winter, and the careful politicking of a small party that acted as mediators, the front stabilized; ending the Talsberg War in an uneasy status quo, with the borders unchanged, but thousands of new graves dug. 
 
