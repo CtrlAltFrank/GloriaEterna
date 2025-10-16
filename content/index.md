@@ -1,5 +1,6 @@
 ---
 title: Gloria Eterna
+socialimage: GEBanner.png
 ---
 ## The Fall of Gloria Eternia: Primer
 
