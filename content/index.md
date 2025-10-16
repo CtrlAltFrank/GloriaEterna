@@ -38,6 +38,13 @@ With [[Shades]] and [[Shriven]] now entering the tunnels where the last desperat
 
 ### Change Log
 
+#### October 16
+- Session Day - Likely no changes to be made.
+
+#### October 15
+- Added Base information for several Houses/Factions, still To Be Worked.
+
+
 #### October 14
 - Expanded Information on [[House Fontana]] 
 - Expanded Information on the [[Rentz]] 
