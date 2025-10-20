@@ -2,7 +2,7 @@
 title: Gloria Eterna
 socialimage: GEBanner.png
 ---
-
+Test
 ![](https://i.imgur.com/srSHPrN.png)
 
 ## The Fall of Gloria Eternia: Primer
