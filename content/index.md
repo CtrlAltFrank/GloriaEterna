@@ -2,8 +2,8 @@
 title: Gloria Eterna
 socialimage: GEBanner.png
 ---
-Test
-![](https://i.imgur.com/srSHPrN.png)
+
+![](https://i.imgur.com/Up3RtT8.png)
 
 ## The Fall of Gloria Eternia: Primer
 
@@ -41,6 +41,9 @@ With [[Shades]] and [[Shriven]] now entering the tunnels where the last desperat
 
 
 ### Change Log
+
+#### October 20
+- Totally didn't dick around at work, and figure out how to post images.
 
 #### October 16
 - Session Day - Likely no changes to be made.
