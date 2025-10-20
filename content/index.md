@@ -2,6 +2,9 @@
 title: Gloria Eterna
 socialimage: GEBanner.png
 ---
+
+![](https://i.imgur.com/srSHPrN.png)
+
 ## The Fall of Gloria Eternia: Primer
 
 In the 73rd year of the [[Age of Light]], the Eternal Empire, Gloria Eternia, stood at the pinnacle of civilization. At its heart, the continent of [[Aleria]], a vibrant land home to over a hundred million citizens who knew little of want or need; as Grand coliseums and amphitheaters graced every city, and great forums and Bazaars thrived, fed by the constant flow of luxury goods and vital commodities from the vast colonies of Gloria [[Ferrax]] and Gloria Keldoran. New magics were formed and weaved in vast Collegea and Universities, open to all citizens who showed even a modicum of skill. All the whole, the Empires Legions pushed ever onwards, expanding into foreign and treacherous [[Fae Barbaria]] 
