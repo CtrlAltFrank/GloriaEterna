@@ -1,6 +1,6 @@
 ---
 title: Gloria Eterna
-socialimage: GEBanner.png
+socialimage: https://i.imgur.com/Up3RtT8.png
 ---
 
 ![](https://i.imgur.com/Up3RtT8.png)
