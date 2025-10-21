@@ -1,0 +1,6 @@
+- Name: [[Oselor Liraethen]]
+- Player: Micah
+- Race: Human 
+- Background:  
+- Class:  Wizard
+- Alignment: 

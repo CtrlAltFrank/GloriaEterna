@@ -1,0 +1,6 @@
+- Name: ??? 
+- Player: Mason #2 
+- Race: Human 
+- Background:  ???
+- Class:  Fighter - Echo
+- Alignment: ???

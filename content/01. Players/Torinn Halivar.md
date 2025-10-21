@@ -1,0 +1,6 @@
+- Name: [[Torinn Halivar]]
+- Player: Jose
+- Race: Dragonborn 
+- Background:  Criminal
+- Class:  Paladin 
+- Alignment: 

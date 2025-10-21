@@ -1,0 +1,16 @@
+
+|                                             |                                      |                                |                                                                                |
+| ------------------------------------------- | ------------------------------------ | ------------------------------ | ------------------------------------------------------------------------------ |
+| **Name**                                    | **Domains**                          | **Symbol / Crest**             | **General Information**                                                        |
+| **Dominus Coelestis**:<br>The High Gods     |                                      |                                |                                                                                |
+| [[Targelus]]                                | Authority, Fate, Sovereignty         | Bronze Crown                   | The King of the Gods, his crown belongs to all thrones, and none.              |
+| [[Honus]]                                   | Death, Fertility, Harvest            | Sword & Sickle                 | Matron of Blood & Bloom. All seeds must grow, and all plants must someday die. |
+| [[Grisenne]]                                | Madness, Prophecy, Truth & Deception | Tear Drop                      | Who knows, Laments. She weeps for what she dares reveal.                       |
+|                                             |                                      |                                |                                                                                |
+| **Senatus Coelestis**: The Celestial Senate |                                      |                                |                                                                                |
+| [[Vornathos]]                               | War, Fury, Suvival                   | Spear & Shield                 | Son of Honus. Revered amongst the Legion.                                      |
+| [[Florundia]]                               | Home, Family, Protection             | Hearthstone, vines in bloom    | The Midwife of the Gods, prayed to by mothers, and travelers alike.            |
+| [[Velmara]]                                 | Threshhold, Afterlife, Spirits       | Bleached Antler or Rib         | Her symbol is nailed to many entryways, to ward off evil spirits               |
+| [[Falcrian]]                                | Roads, Trade, Fortune                | Two Golden Towers, Wagon Wheel | Even in War, there can be fortune found.                                       |
+| [[Urzebel]]                                 | Creation, Craft, Silent Devotion     | Hammer, Heart                  | Prayered to by Blacksmiths & Admirers alike.                                   |
+|                                             |                                      |                                |                                                                                |
